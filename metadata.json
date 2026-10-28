@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect — Campus Recruitment Portal",
+  "description": "Comprehensive campus placement and recruitment portal for universities, students, and corporate recruiters with eligibility checks, interview management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
